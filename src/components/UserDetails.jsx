@@ -20,7 +20,7 @@ const UserDetails = ({ onDelete }) => {
 
   return (
     <>
-    <div className="card card-side shadow-xl w-full max-w-md bg-gradient-to-r from-[#232526] to-[#414345] ">
+    <div className="card card-side shadow-xl w-full max-w-md bg-gradient-to-r from-[#232526] to-[#414345] m-5">
   <figure>
     <img
       src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"

@@ -17,7 +17,7 @@ const UserList = () => {
 
   return (
     <>
-      <div className="lg:w-[300px] w-full p-2">
+      <div className="lg:w-[300px] w-full p-2 ">
         <ul className="menu bg-base-200 rounded-box w-full">
           <label className="input input-bordered flex items-center gap-2 m-5">
             <input 
